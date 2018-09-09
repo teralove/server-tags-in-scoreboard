@@ -1,0 +1,23 @@
+uint32 unk_1
+uint32 unk_2
+uint32 unk_3
+uint32 unk_4
+uint32 unk_5
+uint32 unk_6
+uint32 unk_7
+uint32 unk_8
+uint32 unk_9
+
+array players
+- byte team # 0 = your team, 1 = enemy team
+- uint32 class
+- uint32 unk3
+- uint32 unk4
+- uint32 kills
+- uint32 assists
+- uint32 deaths
+- uint32 destroyed
+- uint32 contribution
+- uint32 unk10
+- uint32 unk12
+- string name

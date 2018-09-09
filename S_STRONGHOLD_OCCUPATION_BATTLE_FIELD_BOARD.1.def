@@ -1,0 +1,25 @@
+uint32 unk0 # time?
+uint32 unk1
+uint32 unk2
+uint32 unk3
+uint32 unk4 # some playerId?
+uint32 unk5
+uint32 unk6
+uint32 unk7
+uint32 unk8
+
+array players
+- byte team
+- uint32 class
+- uint32 unk9
+- uint32 unk10
+- uint32 kills
+- uint32 assists
+- uint32 deaths
+- uint32 sitesCaptured
+- uint32 contribution
+- uint32 rating
+- uint32 unk12 # playerId?
+- uint32 unk13b
+- uint32 unk14b
+- string name
